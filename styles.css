@@ -33,35 +33,22 @@ header ul a {
   text-align: center;
   margin-left: 40px;
 }
-/* 
-.info-container {
-  box-sizing: border-box;
-  background-color: #ffffff97;
-  width: 85%;
-  margin-top: 50px;
-  margin-left: 50px;
-  border-radius: 5px;
-  height: 350px;
-  display: flex;
-  align-items: center;
-  align-content: space-between;
-} */
 
 .info p {
-  width: 300px;
+  width: 400px;
   line-height: 30px;
   word-spacing: 2px;
   margin: 60px 20px;
   padding: 100px 30px;
   color: white;
   display: flex;
-  font-size: larger;
+  font-size: 25px;
   text-align: justify;
-  
+
 }
 
 .container {
-  width: 95%;
+  width:90%;
   min-height: 50vh;
   background: linear-gradient(135deg, #153677, #4e085f);
   padding: 10px;
